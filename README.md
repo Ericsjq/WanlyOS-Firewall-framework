@@ -1,11 +1,13 @@
 WanlyOS-Firewall-framework(WanlyOS防火墙框架)
 ==========================
-中文文档
------------------
+#中文文档
 WannyOS 的防火墙框架，这只是规则检索的最基本部分。
-# 支持最小化至系统托盘：
+
+支持最小化至系统托盘：
 ![alt 主界面](https://4147093qp2.imdo.co/bbb.png)
+
 ![alt 系统托盘](https://4147093qp2.imdo.co/aaa.png)
+
 窗口界面使用tkinter编辑，系统托盘功能需要pyautogui库。
 
 
